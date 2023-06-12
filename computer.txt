@@ -1,0 +1,4 @@
+computer = ['precessador', 'keyboard', 'mouse']
+
+for item in computer:
+    print (item)
